@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
-![React](https://img.shields.io/badge/react-19.0.0-blue.svg)
+![React](https://img.shields.io/badge/react-20.0.0-blue.svg)
 ![MongoDB](https://img.shields.io/badge/mongodb-7.0+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
@@ -49,7 +49,7 @@ Sistema bancário completo para gerenciamento de carteiras de criptomoedas com i
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/banksys.git
+git clone https://github.com/Claneeer/banksys2.0.git
 cd banksys
 ```
 
